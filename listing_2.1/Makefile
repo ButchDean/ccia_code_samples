@@ -1,6 +1,6 @@
 CC  = g++
-SRC = listing_1.2.cc
-EXE = listing_1.2
+SRC = listing_2.1.cc
+EXE = listing_2.1
 
 $(EXE): $(SRC)
 	$(CC) $< -o $@
