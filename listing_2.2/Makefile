@@ -1,6 +1,6 @@
 CC  = g++
-SRC = listing_2.1.cc
-EXE = listing_2.1
+SRC = listing_2.2.cc
+EXE = listing_2.2
 OPT = -Wall -std=c++14
 
 $(EXE): $(SRC)
