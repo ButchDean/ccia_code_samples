@@ -1,6 +1,6 @@
 CC  = g++
-SRC = listing_2.4.cc
-EXE = listing_2.4
+SRC = listing_2.5.cc
+EXE = listing_2.5
 OPT = -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -std=c++17 
 
 $(EXE): $(SRC)

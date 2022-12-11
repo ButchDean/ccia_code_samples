@@ -2,9 +2,12 @@
 #include <thread>
 #include <algorithm>
 #include <functional>
+#include <iostream>
 
 void do_work(unsigned id)
-{}
+{
+    std::cout  << "-" << id << "-";
+}
 
 void f()
 {
