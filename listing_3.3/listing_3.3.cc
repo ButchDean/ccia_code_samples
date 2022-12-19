@@ -1,5 +1,5 @@
 #include <deque>
-#include <cstddef>
+
 template<typename T,typename Container=std::deque<T> >
 class stack
 {
