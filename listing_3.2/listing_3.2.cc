@@ -2,7 +2,6 @@
 
 class some_data
 {
-    int a;
     std::string b;
 public:
     void do_something()
