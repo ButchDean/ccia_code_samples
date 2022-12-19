@@ -1,6 +1,6 @@
 #include <deque>
 
-template<typename T,typename Container=std::deque<T> >
+template<typename T,typename Container=std::deque<T>>
 class stack
 {
 public:
